@@ -28,6 +28,12 @@ Once a page shows signs of performance issues, next steps would likely include r
 
 I am considering adding a reporting agent to make recording violations easier, which would probably be an optional callback provided to the Justice initializer. Then one could push the violation data set to some arbitrary endpoint.
 
+## Install
+
+```sh
+bower install justice --save
+```
+
 ## Use
 Simple
 ```html
