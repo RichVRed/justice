@@ -1,0 +1,22 @@
+{
+  "name": "justice",
+  "description": "Embedable script for displaying web page performance metrics.",
+  "main": "build/justice.min.js",
+  "authors": [
+    "Jason Ormand"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "justice",
+    "voxmedia",
+    "mediafigaro"
+  ],
+  "homepage": "https://github.com/mediafigaro/justice",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
